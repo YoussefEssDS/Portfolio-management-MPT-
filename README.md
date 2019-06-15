@@ -14,10 +14,10 @@ This perforamnce is monitored using Risk Vs. Return graphics.
 
 The data used for the 4 financial assets can be found at the following links: 
 
-Asset 1:
+Asset 1: Netflix: https://finance.yahoo.com/quote/NFLX/history?p=NFLX
 
-Asset 2:
+Asset 2: Tesla https://finance.yahoo.com/quote/TSLA/history?p=TSLA
 
-Asset 3:
+Asset 3: Amazon https://finance.yahoo.com/quote/AMZN/history?p=AMZN
 
-Asset 4:
+Asset 4: Apple  https://finance.yahoo.com/quote/AMZN/history?p=AMZN
